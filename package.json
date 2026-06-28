@@ -1,0 +1,24 @@
+{
+  "name": "discbot",
+  "version": "1.0.0",
+  "description": "Discord bot template for future deployment",
+  "homepage": "https://github.com/adrianhelllo/discbot#readme",
+  "bugs": {
+    "url": "https://github.com/adrianhelllo/discbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianhelllo/discbot.git"
+  },
+  "license": "ISC",
+  "author": "tix",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
+}
